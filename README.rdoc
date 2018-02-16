@@ -1,5 +1,0 @@
-== This is the repository for the first application i build in Ruby on Rails
-
-* I am creating my first ruby application
-* Feel free to assist me or take notes from my script
-* Have fun!
